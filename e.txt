@@ -1,2 +1,6 @@
 Paradise.
+<<<<<<< HEAD
 West Lake / Xihu.
+=======
+West Lake or Xihu.
+>>>>>>> f
